@@ -1,4 +1,4 @@
-# Polynomials
+# Composition
 
 Composition for [Occam](https://occam.science).
 
