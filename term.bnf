@@ -1,6 +1,6 @@
 
 
-                               term  ::=  "𝘰𝘱𝘦𝘳𝘢𝘵𝘪𝘰𝘯" "of" argument
+                               term  ::=  "𝘰𝘱𝘦𝘳𝘢𝘵𝘪𝘰𝘯" "𝘰𝘧" argument
 
                                        |  argument `argument` argument               (1)
 
